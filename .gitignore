@@ -1,0 +1,8 @@
+CMakeFiles
+build
+CMakeCache.txt
+linux*
+NFAStudy
+cmake_install.cmake
+src/main
+src/main.dSYM
